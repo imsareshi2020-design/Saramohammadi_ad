@@ -1,0 +1,86 @@
+index.html
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>رزومه سارا شیرمحمدی</title>
+  <style>
+    body {
+      font-family: "Vazir", sans-serif;
+      background: #f5f7fa;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 800px;
+      background: #fff;
+      margin: 50px auto;
+      padding: 40px;
+      border-radius: 12px;
+      box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    }
+    h1 {
+      color: #e91e63;
+      border-bottom: 2px solid #f3d1db;
+      padding-bottom: 10px;
+    }
+    h2 {
+      color: #333;
+      margin-top: 30px;
+    }
+    ul {
+      line-height: 1.8;
+      padding-right: 20px;
+    }
+    a {
+      color: #e91e63;
+      text-decoration: none;
+    }
+    .footer {
+      margin-top: 40px;
+      font-size: 14px;
+      color: #777;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🌸 سارا شیرمحمدی</h1>
+    <h3>ادمین اینستاگرام و تولیدکننده محتوا</h3>
+
+    <h2>درباره من</h2>
+    <p>
+      من یک ادمین اینستاگرام و تولیدکننده محتوا هستم با چهار سال سابقه در زمینه مدیریت صفحات، افزایش تعامل، طراحی پست و استوری، و برنامه‌ریزی استراتژی‌های رشد برند در فضای مجازی.
+    </p>
+
+    <h2>مهارت‌ها</h2>
+    <ul>
+      <li>مدیریت حرفه‌ای صفحات اینستاگرام</li>
+      <li>تدوین استراتژی محتوا و برنامه‌ریزی پست‌ها</li>
+      <li>طراحی پست و استوری با Canva و Photoshop</li>
+      <li>تحلیل Insights و بهبود نرخ تعامل</li>
+      <li>تدوین کپشن و هشتگ‌گذاری حرفه‌ای</li>
+    </ul>
+
+    <h2>سوابق کاری</h2>
+    <ul>
+      <li>ادمین پیج فروشگاهی “گل‌مارکت” (۱۴۰۰ تا کنون)</li>
+      <li>تولید محتوا برای برندهای آموزشی و مد (۱۳۹۹ تا ۱۴۰۰)</li>
+    </ul>
+
+    <h2>تماس با من</h2>
+    <p>
+      📧 ایمیل: <a href="mailto:Imsareshi2020@gmail.com">Imsareshi2020@gmail.com</a><br>
+      💼 اینستاگرام: <a href="https://instagram.com/" target="_blank">@your_instagram</a><br>
+      🌐 گیت‌هاب: <a href="https://github.com/imsareshi2020-art" target="_blank">github.com/imsareshi2020-art</a>
+    </p>
+
+    <div class="footer">
+      طراحی شده با ❤️ توسط سارا شیرمحمدی
+    </div>
+  </div>
+</body>
+</html>
